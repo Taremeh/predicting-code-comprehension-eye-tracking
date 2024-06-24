@@ -1,0 +1,25 @@
+"Task for all snippets: ""What will be printed if you run the following code?"" ";;;;;
+$code_snippet_id;$option_a;$option_b;$option_c;$code_img_name;$correct_option
+49-510-V1;8;6;1;49-510-V1-code-final.png;a
+366-143-V1;key-3945\\n key-3945 => This is a sample value.<br>;This is a sample value.\\n<LruCache object at 0x11a2734c0>;This is a sample value.\\n key-3945 => This is a sample value.<br>;366-143-V1-code-final.png;c
+10-181-V2;2\\n3\\n1;1\\n2\\n3;3\\n2\\n1;10-181-V2-code-final.png;a
+10-258-V1;3;5;0;10-258-V1-code-final.png;b
+189-1871-V2;item1item2item3;item1\\nitem2\\nitem3;i \\nt\\ne \\nm \\n1;189-1871-V2-code-final.png;b
+10-117-V2;True;False;None;10-177-V2-code-final.png;a
+369-1404-V1;('./test.c', None);('./test.c', './test.c');ValueError: mismatch: ./../test.c != test.c;369-1404-V1-code-final.png;b
+142-929-V2;('x', None);('x', 'test');(None, 'test');142-929-V2-code-final.png;b
+10-258-V2;5;3;0;10-258-V2-code-final.png;a
+10-117-V1;True;False;None;10-177-V1-code-final.png;b
+10-928-V1;[1, 1, 4, 7, 0];[0, 7, 4, 1, 1];[0, 1, 1, 4, 7];10-928-V1-code-final.png;c
+49-510-V2;1;6;8;49-510-V2-code-final.png;c
+142-929-V1;('x', 'test');('x', None);(None, 'test');142-929-V1-code-final.png;a
+10-258-V3;0;3;5;10-258-V3-code-final.png;c
+189-1871-V1;item1\\nitem2\\nitem3;item1item2item3;i \\nt\\ne \\nm \\n1;189-1871-V1-code-final.png;a
+10-928-V2;[1, 1, 4, 7, 0];[0, 1, 1, 4, 7];[0, 7, 4, 1, 1];10-928-V2-code-final.png;b
+49-76-V3;Rxhh nosd;Klaa cima;Bcss miyc;49-76-V3-code-final.png;c
+A34-6;10;12;An error occurs;A34-6-code-final.png;a
+A84-600;True;False;None;A84-600-code-final.png;a
+A189-895;1000;None;An error occurs;A189-895-code-final.png;c
+A1117-384;[0. 0. 0.];[-1024. -1024. -1024.];[1024. 1024. 1024.];A1117-384-code-final.png;b
+A1117-2696;0;1;2;A1117-2696-code-final.png;b
+A49-7086;6;12;14;A49-7086-code-final.png;b

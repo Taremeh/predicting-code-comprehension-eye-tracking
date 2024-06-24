@@ -1,0 +1,1 @@
+print(bar("QWERTYUIOPASDFGHJKLZXCVBNM", "Well done"))

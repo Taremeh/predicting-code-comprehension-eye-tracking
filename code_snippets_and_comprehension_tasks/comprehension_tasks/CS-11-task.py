@@ -1,0 +1,1 @@
+print(legacy_get_enum(None, True, False))
