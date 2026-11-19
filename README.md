@@ -15,6 +15,24 @@ You can also find the following files in this root directory:
 - `hyperparameter_search_results.txt`: Containing the results of the nested cross-validation hyperparameter search.
 - `raw_em_data.rar`: Raw high-frequency eye movement data (not required to run our model)*
 
+## Paper
+
+Tarek Alakmeh, David Reich, Lena Jäger, and Thomas Fritz. 2024. Predicting Code Comprehension: A Novel Approach to Align Human Gaze with Code using Deep Neural Networks. *Proceedings of the ACM on Software Engineering* 1, FSE, 1982–2004. [doi.org/10.1145/3660795](https://doi.org/10.1145/3660795)
+
+```bibtex
+@article{alakmeh2024predicting,
+  title     = {Predicting Code Comprehension: A Novel Approach to Align Human Gaze with Code using Deep Neural Networks},
+  author    = {Alakmeh, Tarek and Reich, David and J{\"a}ger, Lena and Fritz, Thomas},
+  journal   = {Proceedings of the ACM on Software Engineering},
+  volume    = {1},
+  number    = {FSE},
+  pages     = {1982--2004},
+  year      = {2024},
+  publisher = {Association for Computing Machinery},
+  doi       = {10.1145/3660795}
+}
+```
+
 ## Quick-Start: Run our model
 
 `python scripts/evaluate_cross_validation.py --problem-setting {accuracy, subjective_difficulty} --split {subject, code-snippet} --mode {bimodal, fixations, code}`
